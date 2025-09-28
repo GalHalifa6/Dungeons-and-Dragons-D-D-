@@ -27,10 +27,10 @@ Example – run with a single map file:
 Just replace the path (src/levels_dir/...) with the actual location of your map files.
 
 # Controls
-w – Move up
-s – Move down
-a – Move left
-d – Move right
-e – Cast special ability
-q – Skip turn (do nothing)
+w – Move up.
+s – Move down.
+a – Move left.
+d – Move right.
+e – Cast special ability.
+q – Skip turn (do nothing).
 
