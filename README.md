@@ -52,7 +52,8 @@ If you want to run the game with a **specific map/level file**, update the confi
 - **a** – Move left  
 - **d** – Move right  
 - **e** – Cast special ability  
-- **q** – Skip turn (do nothing)  
+- **q** – Skip turn (do nothing)
+- 
 
 # Example Board
 When running the game, you’ll see ASCII boards like this:
