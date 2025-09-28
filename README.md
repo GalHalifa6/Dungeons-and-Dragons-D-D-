@@ -46,17 +46,23 @@ If you want to run the game with a **specific map/level file**, update the confi
 ```
 
 # Controls (Keyboard Commands)
-**w – Move up
-**s – Move down
-**a – Move left
-**d – Move right
-**e – Cast special ability
-**q – Skip turn (do nothing)
+
+- **w** – Move up  
+- **s** – Move down  
+- **a** – Move left  
+- **d** – Move right  
+- **e** – Cast special ability  
+- **q** – Skip turn (do nothing)  
 
 # Example Board
 When running the game, you’ll see ASCII boards like this:
 
-'''
+
+
+# Example Board
+When running the game, you’ll see ASCII boards like this:
+
+
 #################################################
 #....s...#B#..........................#.........#
 #........###....##..........##........#.........#
@@ -76,14 +82,16 @@ When running the game, you’ll see ASCII boards like this:
 #........###....##..........##........#.........#
 #....s...#B#..........................#.........#
 #################################################
-'''
 
 
-**@ – Player
-**s, k, M, … – Enemies
-**# – Walls
-**. – Free space
+
+
+**@** – Player  
+**s, k, M, …** – Enemies  
+**#** – Walls  
+**.** – Free space  
 
 Have fun!
+
 
 
