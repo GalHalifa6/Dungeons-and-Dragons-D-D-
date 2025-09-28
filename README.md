@@ -56,6 +56,7 @@ If you want to run the game with a **specific map/level file**, update the confi
 # Example Board
 When running the game, you’ll see ASCII boards like this:
 
+'''
 #################################################
 #....s...#B#..........................#.........#
 #........###....##..........##........#.........#
@@ -75,6 +76,7 @@ When running the game, you’ll see ASCII boards like this:
 #........###....##..........##........#.........#
 #....s...#B#..........................#.........#
 #################################################
+'''
 
 
 **@ – Player
